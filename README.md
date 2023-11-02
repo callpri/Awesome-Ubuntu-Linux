@@ -348,6 +348,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - Hackable text editor for the 21st century.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
 - [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - A modern text editor that understands web design.
+- [CodeLobster](https://codelobster.com/) - A free code editor with many plug-ins for all popular frameworks.
 - [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 - [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
